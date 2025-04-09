@@ -54,7 +54,7 @@ A modern web application that combines cryptocurrency market data with weather i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cryptoweather-nexus.git
+   git clone https://github.com/Priyanshuraj21030/Crypto-Weather-Nexus
    cd cryptoweather-nexus
    ```
 
